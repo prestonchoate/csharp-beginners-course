@@ -55,7 +55,7 @@ dotnet run
 
 ## 📖 Course Outline
 
-### 🟢 Week 1: Introduction to C# and Basic Syntax
+### ⚫  Week 1: Introduction to C# and Basic Syntax
 **Topics:**
 - What is C#?
 - Writing your first program
@@ -69,7 +69,7 @@ dotnet run
 
 ---
 
-### 🟠 Week 2: Operators and Conditionals
+### ⚫  Week 2: Operators and Conditionals
 **Topics:**
 - Arithmetic operators (`+`, `-`, `*`, `/`, `%`)
 - Comparison operators (`==`, `!=`, `<`, `>`, `<=`, `>=`)
@@ -83,7 +83,7 @@ dotnet run
 
 ---
 
-### 🟡 Week 3: Loops and Arrays
+### ⚫  Week 3: Loops and Arrays
 **Topics:**
 - `for`, `while`, and `do-while` loops
 - Loop control (`break`, `continue`)
@@ -96,7 +96,7 @@ dotnet run
 
 ---
 
-### 🔵 Week 4: Methods and Functions
+### ⚫ Week 4: Methods and Functions
 **Topics:**
 - Defining and calling methods
 - Parameters and return values
@@ -109,7 +109,7 @@ dotnet run
 
 ---
 
-### 🟣 Week 5: Classes and Objects (OOP)
+### ⚫ Week 5: Classes and Objects (OOP)
 **Topics:**
 - What are classes and objects?
 - Creating classes with properties and methods
@@ -122,7 +122,7 @@ dotnet run
 
 ---
 
-### 🟤 Week 6: Inheritance and Encapsulation
+### ⚫ Week 6: Inheritance and Encapsulation
 **Topics:**
 - Understanding class inheritance
 - Base and derived classes
