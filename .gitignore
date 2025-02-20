@@ -1,0 +1,36 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific Files
+.vscode/
+*.user
+*.suo
+*.vsp
+*.sln.docstates
+
+# Logs
+*.log
+
+# Compiled files
+*.exe
+*.dll
+*.pdb
+
+# Temporary files
+*.tmp
+*.cache
+
+# Rider & JetBrains IDEs
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+
